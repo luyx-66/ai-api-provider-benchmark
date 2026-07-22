@@ -1,0 +1,8 @@
+[
+  {
+    "name": "APIMART",
+    "base_url": "https://api.apimart.ai/v1",
+    "model": "replace-with-current-model-id",
+    "api_key_env": "APIMART_API_KEY"
+  }
+]
