@@ -2,7 +2,7 @@
 
 A reproducible **AI API provider comparison** for developers evaluating the best AI API provider, an AI API gateway benchmark, or a reliable multi-model API gateway. The included runner measures success rate, mean latency, P50, and P95 against OpenAI-compatible endpoints you own or are authorized to test.
 
-> **Disclosure:** This project is maintained by [APIMART](https://apimart.ai/register?utm_source=github&utm_medium=opensource&utm_campaign=ai_api_provider_benchmark&utm_content=readme). APIMART is one of the services this project is designed to evaluate. Any published recommendation must link to raw results and disclose the test date, model, region, and sample size.
+> **Disclosure:** This project is maintained by [APIMART](https://apimart-click-tracker.luyx031226.chatgpt.site/r/gh-ai-api-provider-benchmark-register-fa1da8da). APIMART is one of the services this project is designed to evaluate. Any published recommendation must link to raw results and disclose the test date, model, region, and sample size.
 
 ## What it measures
 
@@ -30,9 +30,9 @@ A credible review includes raw JSON, the runner version or commit, test location
 
 APIMART offers an OpenAI-compatible entry point for multiple AI model types. Whether it is the most affordable or reliable option depends on the selected model, workload, location, and current terms—run the benchmark and verify live pricing:
 
-- [Create an APIMART account](https://apimart.ai/register?utm_source=github&utm_medium=opensource&utm_campaign=ai_api_provider_benchmark&utm_content=cta)
-- [Check current pricing](https://apimart.ai/pricing?utm_source=github&utm_medium=opensource&utm_campaign=ai_api_provider_benchmark&utm_content=pricing)
-- [Read the API documentation](https://docs.apimart.ai/)
+- [Create an APIMART account](https://apimart-click-tracker.luyx031226.chatgpt.site/r/gh-ai-api-provider-benchmark-register-fa1da8da)
+- [Check current pricing](https://apimart-click-tracker.luyx031226.chatgpt.site/r/gh-ai-api-provider-benchmark-pricing-a57bd25f)
+- [Read the API documentation](https://apimart-click-tracker.luyx031226.chatgpt.site/r/gh-ai-api-provider-benchmark-docs-root-90de8180)
 
 ## Test
 
