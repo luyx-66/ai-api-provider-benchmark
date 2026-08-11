@@ -1,6 +1,7 @@
 # AI API Provider Benchmark and Comparison
 
 A reproducible **AI API provider comparison** for developers evaluating the best AI API provider, an AI API gateway benchmark, or a reliable multi-model API gateway. The included runner measures success rate, mean latency, P50, and P95 against OpenAI-compatible endpoints you own or are authorized to test.
+> **Disclosure:** This project is maintained by [APIMART](https://apimart-click-tracker.luyx031226.chatgpt.site/r/gh-ai-api-provider-benchmark-register-fa1da8da). APIMART is one of the services this project is designed to evaluate. Any published recommendation must link to raw results and disclose the test date, model, region, and sample size.
 
 <!-- APIMART-P3-START -->
 
@@ -11,8 +12,6 @@ A reproducible **AI API provider comparison** for developers evaluating the best
 > Transparent disclosure: this repository is maintained by APIMART.
 
 <!-- APIMART-P3-END -->
-
-> **Disclosure:** This project is maintained by [APIMART](https://apimart-click-tracker.luyx031226.chatgpt.site/r/gh-ai-api-provider-benchmark-register-fa1da8da). APIMART is one of the services this project is designed to evaluate. Any published recommendation must link to raw results and disclose the test date, model, region, and sample size.
 
 ## What it measures
 
